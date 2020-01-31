@@ -1,5 +1,8 @@
 # HttpRequisitions
 Two classes for Csharp that you'll love!
+This classes makes a easy way to build an C# application with requisitions.
+
+It's simple, just add this classes to your project and use it.
 
 # Getting Started
 Download code and use with no restrictions.
